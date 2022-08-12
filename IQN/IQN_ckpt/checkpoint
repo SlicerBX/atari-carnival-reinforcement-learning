@@ -1,0 +1,2 @@
+model_checkpoint_path: "Carnival96x80"
+all_model_checkpoint_paths: "Carnival96x80"
